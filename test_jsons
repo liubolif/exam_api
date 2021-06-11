@@ -1,0 +1,30 @@
+{
+    "name": "Bounty",
+    "type": "bar",
+    "price": 18,
+    "amount": 5,
+    "company": "Nestle"
+}
+{
+    "name": "testttt",
+    "type": "test",
+    "price": 5,
+    "amount": 80,
+    "company": "Roshen",
+    "date_shipped": "2019-10-10"
+}
+{
+    "name": "Zoryane syayvo",
+    "type": "candy",
+    "price": 78,
+    "amount": 10,
+    "company": "Svitoch"
+}
+{
+    "name": "UPDATED Zoryane syayvo",
+    "type": "candy",
+    "price": 90,
+    "amount": 12,
+    "company": "Roshen",
+    "date_shipped": "2020-09-19"
+}
